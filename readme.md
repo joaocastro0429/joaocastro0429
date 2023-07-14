@@ -7,6 +7,15 @@ Meu perfil profissional do Github
 Meu nome João Emanoel sou desenvolvedor fullstack javascript, goiania goias gosto de programar , criar sites e sistemas web e gosto de solucionar problemas 
 atualmente estou estou a procura em recolocação no mercado.
 
+<div>
+
+<a href="https://www.linkedin.com/in//" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/>
+</a>
+
+</div>
+<br>
+
 FRONT-END
 
 ![HTML5](https://img.shields.io/badge/-HTML5-232323?style=flat&labelColor=E34F26&logo=html5&logoColor=ffffff)
