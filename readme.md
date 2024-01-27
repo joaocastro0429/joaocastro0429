@@ -1,6 +1,12 @@
-Meu perfil profissional do Github
+# Olá, eu sou João Castro 
 
-# Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> 🤓
+
+''' javascript
+     class programmer{
+          function incialize(){
+         }
+       }
+'''
 
 <img src="https://komarev.com/ghpvc/?username=julianaconde&color=yellow" alt="Profile views" /> 
 
