@@ -1,12 +1,12 @@
 # Olá, eu sou João Castro 
 
 
-''' javascript
+```javascript
      class programmer{
           function incialize(){
          }
        }
-'''
+```
 
 <img src="https://komarev.com/ghpvc/?username=julianaconde&color=yellow" alt="Profile views" /> 
 
