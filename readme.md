@@ -13,4 +13,18 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=marcodotcastro" alt="marcodotcastro" /> </p>
 
+<h3>Open Source Projects</h3>
+<table>
+    <thead align="center">
+        <tr border: none;>
+            <td><b>Id</b></td>
+	    <td><b>Projects</b></td>
+	    <td><b>Skills</b></td>
+            <td><b>Stars</b></td>
+            <td><b>Forks</b></td>
+            <td><b>Issues</b></td>
+            <td><b>Pull requests</b></td>
+        </tr>
+    </thead>
+
    
