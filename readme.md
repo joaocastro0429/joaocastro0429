@@ -27,7 +27,7 @@
         </tr>
     </thead>
 
-      <tbody>
+  <tbody>
 	<tr>
 		<td>1</td>
             	<td><a href="https://github.com/marcodotcastro/sale-factory"><b>Sales Factory</b></a></td>
@@ -36,7 +36,4 @@
             	<td><img alt="Forks" src="https://img.shields.io/github/forks/marcodotcastro/sale-factory?style=flat-square&labelColor=343b41" /></td>
             	<td><img alt="Issues" src="https://img.shields.io/github/issues/marcodotcastro/sale-factory?style=flat-square&labelColor=343b41" /></td>
             	<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/marcodotcastro/sale-factory?style=flat-square&labelColor=343b41" /></td>
-	     <tr>
-      <tbody/>
-
    
