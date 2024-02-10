@@ -14,7 +14,7 @@
     <p align="left">    
 	       <h4 align="left">High Skill:</h4>
         <a href="https://stackshare.io/mysql" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/mysql/mysql-original.svg" alt="oracle" width="40" height="40" /></a>
-      <a href="https://stackshare.io/laravel" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/laravel/laravel-plain.svg" alt="laravel" width="40" height="40" /></a>
+      <a href="https://stackshare.io/laravel" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/laravel/laravel-original.svg" alt="laravel" width="40" height="40" /></a>
         <a href="https://stackshare.io/javascript"
 	 <a href="https://stackshare.io/python" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/python/python-original.svg" alt="java" width="40" height="40" /></a>
        <a href="https://stackshare.io/git" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/git/git-original.svg" alt="git" width="40" height="40" /></a>
