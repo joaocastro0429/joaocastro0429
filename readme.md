@@ -21,10 +21,16 @@
         <a href="https://stackshare.io/github" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/github/github-original.svg" alt="github" width="40" height="40" /></a>
 	  <a href="https://stackshare.io/php" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/php/php-original.svg" alt="php" width="40" height="40" /></a>
      <a href="https://stackshare.io/ubuntu" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/ubuntu/ubuntu-plain.svg" alt="java" width="40" height="40" /></a>
+     src="https://github.com/devicons/devicon/raw/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40" /></a>
+         target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/javascript/javascript-original.svg"
+            <h4 align="left">Medium Skill:</h4>
+     <a></a>
+        <a href="https://stackshare.io/docker" target="_blank"><img  alt="javascript" width="40" height="40" /></a>
+	<a href="https://stackshare.io/postgresql" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40" /></a>
         
 
 
- </figure>
+
 
 
 
