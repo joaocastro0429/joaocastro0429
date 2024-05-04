@@ -40,7 +40,6 @@ class Programmer
     </p>
 <figure>
 ```ruby 
-  Projetos 
 	end 
 end 
 ```
