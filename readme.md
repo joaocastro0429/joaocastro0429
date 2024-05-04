@@ -43,7 +43,7 @@ class Programmer
 	end 
 end 
 
-<a href="https://github.com/joaocastro0429/desafio_blog_dio.git""><b>obeBitJobs</b></a></td>
+<a href="https://github.com/joaocastro0429/desafio_blog_dio.git"><b>obeBitJobs</b></a></td>
 
 ```
 
