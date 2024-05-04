@@ -40,10 +40,10 @@ class Programmer
     </p>
 <figure>
 ```ruby 
+  Projetos 
 	end 
 end 
 
-<a href="https://github.com/joaocastro0429/desafio_blog_dio.git"><b>obeBitJobs</b></a></td>
 
 ```
 
