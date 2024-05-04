@@ -39,9 +39,7 @@ class Programmer
         <a href="https://stackshare.io/redis" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/redis/redis-original.svg" alt="redis" width="40" height="40" /></a>
     </p>
 <figure>
-```ruby 
-	end 
-end 
+
 ```
 
 
