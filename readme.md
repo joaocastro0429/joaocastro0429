@@ -44,8 +44,8 @@ class Programmer
 
 ```
 
-   <a href="https://github.com/joaocastro0429/todo-api-node.git">api-todo</a> <br/>
-  <a href="https://github.com/joaocastro0429/todo_list.git">todo_list</a>
+ [api-todo](https://github.com/joaocastro0429/todo-api-node.git)  
+[todo_list](https://github.com/joaocastro0429/todo_list.git)
 
 
 ```
