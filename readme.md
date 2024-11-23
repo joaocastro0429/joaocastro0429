@@ -42,13 +42,8 @@ class Programmer
 
 <h1>Projetos:</h1>
 
-
-
- [api-todo](https://github.com/joaocastro0429/todo-api-node.git)  
-[todo_list](https://github.com/joaocastro0429/todo_list.git)
-
-
-```
+``` [api-todo](https://github.com/joaocastro0429/todo-api-node.git)   [todo_list](https://github.com/joaocastro0429/todo_list.git)
+                                                 
 ```
 
 
