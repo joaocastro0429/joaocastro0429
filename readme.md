@@ -12,7 +12,6 @@
 - **Ruby:** Uma linguagem de programação versátil para desenvolvimento web e muito mais
 - **Git:** Um sistema de controle de versão essencial para gerenciar mudanças de código
 - **Linux:** Um sistema operacional robusto amplamente utilizado para desenvolvimento e servidores
-- **Oracle:** Um popular sistema de gerenciamento de banco de dados relacional (RDBMS)
 - **GitHub:** Uma plataforma para hospedar código, colaborar em projetos e compartilhar conhecimento
 
 **Média Habilidade:**
