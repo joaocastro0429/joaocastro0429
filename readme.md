@@ -41,7 +41,7 @@ class Programmer
 <figure>
 
 <h1>Projetos:</h1>
-<a href="https://github.com/joaocastro0429/todo-api-node.git">api-todo</a>
+<a href="https://github.com/joaocastro0429/todo-api-node.git">api-todo</a> <br/>
 <a href="https://github.com/joaocastro0429/todo_list.git">todo_list</a>
 
 ```
