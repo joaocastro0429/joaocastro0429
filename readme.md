@@ -1,50 +1,36 @@
-# Olá, eu sou João Castro 
+# Olá, eu sou João Castro!
 
-```ruby 
-class Programmer
+**Sou programador** com forte base em Ruby on Rails, Ruby, Git e Linux. Também sou proficiente em diversas outras tecnologias, incluindo Oracle, GitHub, PHP, Java, Ubuntu, AWS, Docker, Laravel, JavaScript e PostgreSQL. Embora ainda esteja desenvolvendo minhas habilidades em Vue.js, Python e Redis, estou sempre disposto a aprender e crescer.
 
-	def initialize() 
-```
+**Conecte-se comigo no LinkedIn:** https://linkedin.com/in/joaocastro0429
 
-<p align="left">
-    <h3 align="left">Connect with me:</h3>
-    <a href="https://linkedin.com/in/joaocastro0429" target="_blank"><img align="center" 
-</p>
+**Aqui estão algumas das minhas habilidades de programação:**
 
----
-    
+**Alta Habilidade:**
 
-<h3 align="left">Languages and Tools:</h3>
-    <p align="left">
-        <h4 align="left">High Skill:</h4>
-        <a href="https://stackshare.io/rails" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40" /></a>
-        <a href="https://stackshare.io/ruby" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40" /></a>
-        <a href="https://stackshare.io/rubymine" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/rubymine/rubymine-original.svg" alt="java" width="40" height="40" /></a>
-        <a href="https://stackshare.io/oracle" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40" /></a>
-        <a href="https://stackshare.io/git" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/git/git-original.svg" alt="git" width="40" height="40" /></a>
-        <a href="https://stackshare.io/github" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/github/github-original.svg" alt="github" width="40" height="40" /></a>
-        <a href="https://stackshare.io/linux" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" /></a>
-        <a href="https://stackshare.io/php" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/php/php-original.svg" alt="php" width="40" height="40" /></a>
-        <a href="https://stackshare.io/java" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/java/java-original.svg" alt="java" width="40" height="40" /></a>
-        <a href="https://stackshare.io/ubuntu" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/ubuntu/ubuntu-plain.svg" alt="java" width="40" height="40" /></a>
-        <h4 align="left">Medium Skill:</h4>
-        <a href="https://stackshare.io/search/q=aws" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="40" height="40" /></a>
-        <a href="https://stackshare.io/docker" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40" /></a>
-        <a href="https://stackshare.io/laravel" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/laravel/laravel-plain.svg" alt="laravel" width="40" height="40" /></a>
-        <a href="https://stackshare.io/javascript" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" /></a>
-	<a href="https://stackshare.io/postgresql" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40" /></a>
-        <h4 align="left">Low Skill:</h4>
-        <a href="https://stackshare.io/vuejs" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/vuejs/vuejs-original.svg" alt="vuejs" width="40" height="40" /></a>
-        <a href="https://stackshare.io/python" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/python/python-original.svg" alt="python" width="40" height="40" /></a>
-        <a href="https://stackshare.io/redis" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/redis/redis-original.svg" alt="redis" width="40" height="40" /></a>
-    </p>
-<figure>
+- **Ruby on Rails:** Um poderoso framework para construir aplicações web
+- **Ruby:** Uma linguagem de programação versátil para desenvolvimento web e muito mais
+- **Git:** Um sistema de controle de versão essencial para gerenciar mudanças de código
+- **Linux:** Um sistema operacional robusto amplamente utilizado para desenvolvimento e servidores
+- **Oracle:** Um popular sistema de gerenciamento de banco de dados relacional (RDBMS)
+- **GitHub:** Uma plataforma para hospedar código, colaborar em projetos e compartilhar conhecimento
 
-<h1>Projetos:</h1>
+**Média Habilidade:**
 
-``` [api-todo](https://github.com/joaocastro0429/todo-api-node.git)   [todo_list](https://github.com/joaocastro0429/todo_list.git)
-                                                 
-```
+- **AWS (Amazon Web Services):** Uma plataforma abrangente de computação em nuvem
+- **Docker:** Uma ferramenta para construir, enviar e executar aplicativos containerizados
+- **Laravel:** Um framework de aplicação web para desenvolvimento PHP
+- **JavaScript:** Uma linguagem de programação ubíqua para desenvolvimento web
+- **PostgreSQL:** Um avançado sistema de gerenciamento de banco de dados relacional objeto (ORDBMS) de código aberto
 
+**Baixa Habilidade:**
 
+- **Vue.js:** Um framework JavaScript progressivo para construir interfaces de usuário
+- **Python:** Uma linguagem de programação de propósito geral popular para ciência de dados e automação
+- **Redis:** Um armazenamento de dados em memória usado para cache, mensagens e leaderboards
+
+**Projetos (Projects):**
+
+- **[api-todo](https://github.com/joaocastro0429/todo-api-node.git):** (Descrição do seu projeto de API de to-do)
+- **[todo_list](https://github.com/joaocastro0429/todo_list.git):** (Descrição do seu projeto de lista de to-do)
 
