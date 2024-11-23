@@ -1,8 +1,8 @@
 # Olá, eu sou João Castro!
 
-**Sou programador** com forte base em Ruby on Rails, Ruby, Git e Linux. Também sou proficiente em diversas outras tecnologias, incluindo Oracle, GitHub, PHP, Java, Ubuntu, AWS, Docker, Laravel, JavaScript e PostgreSQL. Embora ainda esteja desenvolvendo minhas habilidades em Vue.js, Python e Redis, estou sempre disposto a aprender e crescer.
+**Sou programador** com forte base em Ruby on Rails, Ruby, Git e Linux. Também sou proficiente em diversas outras tecnologias, incluindo  GitHub, PHP, Java, Ubuntu,  Laravel, JavaScript e PostgreSQL. Embora ainda esteja desenvolvendo minhas habilidades em Vue.js, Python  estou sempre disposto a aprender e crescer.
 
-**Conecte-se comigo no LinkedIn:** https://linkedin.com/in/joaocastro0429
+**Conecte-se comigo no LinkedIn:** https://linkedin.com/in/joaocastro125
 
 **Aqui estão algumas das minhas habilidades de programação:**
 
@@ -17,17 +17,13 @@
 
 **Média Habilidade:**
 
-- **AWS (Amazon Web Services):** Uma plataforma abrangente de computação em nuvem
-- **Docker:** Uma ferramenta para construir, enviar e executar aplicativos containerizados
 - **Laravel:** Um framework de aplicação web para desenvolvimento PHP
 - **JavaScript:** Uma linguagem de programação ubíqua para desenvolvimento web
 - **PostgreSQL:** Um avançado sistema de gerenciamento de banco de dados relacional objeto (ORDBMS) de código aberto
 
 **Baixa Habilidade:**
 
-- **Vue.js:** Um framework JavaScript progressivo para construir interfaces de usuário
 - **Python:** Uma linguagem de programação de propósito geral popular para ciência de dados e automação
-- **Redis:** Um armazenamento de dados em memória usado para cache, mensagens e leaderboards
 
 **Projetos (Projects):**
 
