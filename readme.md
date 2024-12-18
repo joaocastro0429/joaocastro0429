@@ -1,6 +1,6 @@
-# Olá, eu sou João Castro!
+# Olá, eu sou João Castro, desenvolvedor web com 2 anos de experiência , buscando oportunidade na area de desenvolvimento e contribuir em projetos open source , na area de back end.
 
-**Sou programador** com forte base em Ruby on Rails, Ruby, Git e Linux. Também sou proficiente em diversas outras tecnologias, incluindo  GitHub, PHP, Java, Ubuntu,  Laravel, JavaScript e PostgreSQL. Embora ainda esteja desenvolvendo minhas habilidades em Vue.js, Python  estou sempre disposto a aprender e crescer.
+**Sou programador** com forte base em Ruby on Rails, Ruby, Git e Linux. Também sou proficiente em diversas outras tecnologias, incluindo  GitHub, PHP, Java, Ubuntu,  Laravel, JavaScript e PostgreSQL. Embora ainda esteja desenvolvendo minhas habilidades em  Python  estou sempre disposto a aprender e crescer.
 
 **Conecte-se comigo no LinkedIn:** https://linkedin.com/in/joaocastro125
 
