@@ -9,7 +9,7 @@ Explore meus projetos, veja como posso agregar valor e vamos construir algo incr
 
 
 # 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white)  ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=plastic&logo=nodemon&logoColor=%BBDEAD) ![Node LTS](https://img.shields.io/node/v-lts/nodejs)![Node LTS](https://img.shields.io/node/v-lts/python)![Node LTS](https://img.shields.io/node/v-lts/django)![Node LTS](https://img.shields.io/node/v-lts/laravel)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Static Badge](https://img.shields.io/badge/css)![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white)  ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?
 
 
 
