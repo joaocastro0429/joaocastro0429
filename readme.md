@@ -1,31 +1,16 @@
-# Olá, eu sou João Castro, desenvolvedor web com 2 anos de experiência , buscando oportunidade na area de desenvolvimento e contribuir em projetos open source , na area de back end.
+# 💫 Sobre mim:
+Olá, sou João Castro! 👋
 
-**Sou programador** com forte base em Ruby on Rails, Ruby, Git e Linux. Também sou proficiente em diversas outras tecnologias, incluindo  GitHub, PHP, Java, Ubuntu,  Laravel, JavaScript e PostgreSQL. Embora ainda esteja desenvolvendo minhas habilidades em  Python  estou sempre disposto a aprender e crescer.
+Com 2 anos de experiência em desenvolvimento web, estou em busca de novas oportunidades para transformar ideias em soluções robustas e escaláveis. Minha especialidade está no uso de tecnologias como PHP,Laravel, ruby On Rails, JavaScript, Node.js, Laravel,  Python e Django React.js, Next.js, além de bancos de dados como MySQL, MongoDB e PostgreSQL.
 
-**Conecte-se comigo no LinkedIn:** https://linkedin.com/in/joaocastro125
+Estou sempre em busca de colaborações que façam a diferença. Seja para otimizar processos, desenvolver produtos de ponta ou criar experiências digitais incríveis, acredito no poder do trabalho em equipe e na construção de soluções que gerem impacto.
 
-**Aqui estão algumas das minhas habilidades de programação:**
+Explore meus projetos, veja como posso agregar valor e vamos construir algo incrível juntos! 🚀
 
-**Alta Habilidade:**
 
-- **Ruby on Rails:** Um poderoso framework para construir aplicações web
-- **Ruby:** Uma linguagem de programação versátil para desenvolvimento web e muito mais
-- **Git:** Um sistema de controle de versão essencial para gerenciar mudanças de código
-- **Linux:** Um sistema operacional robusto amplamente utilizado para desenvolvimento e servidores
-- **GitHub:** Uma plataforma para hospedar código, colaborar em projetos e compartilhar conhecimento
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white)  ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=plastic&logo=nodemon&logoColor=%BBDEAD) ![Node LTS](https://img.shields.io/node/v-lts/nodejs)![Node LTS](https://img.shields.io/node/v-lts/python)![Node LTS](https://img.shields.io/node/v-lts/django)![Node LTS](https://img.shields.io/node/v-lts/laravel)
 
-**Média Habilidade:**
 
-- **Laravel:** Um framework de aplicação web para desenvolvimento PHP
-- **JavaScript:** Uma linguagem de programação ubíqua para desenvolvimento web
-- **PostgreSQL:** Um avançado sistema de gerenciamento de banco de dados relacional objeto (ORDBMS) de código aberto
 
-**Baixa Habilidade:**
-
-- **Python:** Uma linguagem de programação de propósito geral popular para ciência de dados e automação
-
-**Projetos (Projects):**
-
-- **[api-todo](https://github.com/joaocastro0429/todo-api-node.git):** (Descrição do seu projeto de API de to-do)
-- **[todo_list](https://github.com/joaocastro0429/todo_list.git):** (Descrição do seu projeto de lista de to-do)
 
