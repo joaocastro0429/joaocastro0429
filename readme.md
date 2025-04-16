@@ -10,6 +10,7 @@
 - 🎯 Buscando minha primeira oportunidade como Dev Backend Júnior
 - 📚 Estudando boas práticas de código limpo, testes automatizados e arquitetura em camadas
 - 🌱 Atualmente desenvolvendo sistemas completos com autenticação, regras de negócio e banco de dados relacional
+- 🧠 Aprendizado contínuo com **PHP + Laravel** e **Python + Django**
 
 ---
 
@@ -22,6 +23,10 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![JWT](https://img.shields.io/badge/-JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
@@ -40,7 +45,6 @@
 - Projeto de gerenciamento escolar com NestJS
 - Sistema de estoque com autenticação JWT e múltiplos usuários
 
----
 
 ### 📫 Contato
 
