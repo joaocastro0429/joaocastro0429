@@ -10,7 +10,7 @@
 - 🎯 Buscando minha primeira oportunidade como Dev Backend Júnior
 - 📚 Estudando boas práticas de código limpo, testes automatizados e arquitetura em camadas
 - 🌱 Atualmente desenvolvendo sistemas completos com autenticação, regras de negócio e banco de dados relacional
-- 🧠 Aprendizado contínuo com **PHP + Laravel** e **Python + Django ruby on rails**
+- 🧠 Aprendizado contínuo com **PHP + Laravel** e **Python + Django + ruby on rails**
 
 ---
 
