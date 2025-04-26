@@ -10,7 +10,7 @@
 - 🎯 Buscando minha primeira oportunidade como Dev Backend Júnior
 - 📚 Estudando boas práticas de código limpo, testes automatizados e arquitetura em camadas
 - 🌱 Atualmente desenvolvendo sistemas completos com autenticação, regras de negócio e banco de dados relacional
-- 🧠 Aprendizado contínuo com **PHP + Laravel** e **Python + Django**
+- 🧠 Aprendizado contínuo com **PHP + Laravel** e **Python + Django ruby on rails**
 
 ---
 
@@ -29,6 +29,9 @@
 ![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
+![Rails](https://img.shields.io/badge/-Ruby%20on%20Rails-CC0000?style=for-the-badge&logo=rubyonrails&logoColor=white)
+
 
 ---
 
