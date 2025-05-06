@@ -1,6 +1,6 @@
 <h1 align="center">👋 Olá, eu sou o João Castro!</h1>
 
-<p align="center">Desenvolvedor Backend focado em criar APIs escaláveis com NestJS, Prisma e PostgreSQL 🚀</p>
+<p align="center">Desenvolvedor Backend focado em Django framework 🚀</p>
 
 ---
 
@@ -47,7 +47,7 @@
 
 ### 📫 Contato
 
-- 💼 [LinkedIn](https://linkedin.com/in/joaocastro0429)
+- 💼 [LinkedIn](https://linkedin.com/in/joaocastro-dev)
 - 💻 [GitHub](https://github.com/joaocastro0429)
 
 ---
