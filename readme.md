@@ -37,16 +37,12 @@
 
 ### 🔥 Projetos em Destaque
 
-#### 🛒 [Sistema de Vendas - NestJS](https://github.com/joaocastro0429/sistema-venda)
-> **Desafio:** Criar um sistema de vendas com gerenciamento de produtos, clientes e pedidos  
-> **Tecnologias:** NestJS · Prisma · PostgreSQL · JWT · Docker  
-> **Resultado:** Sistema com autenticação, cadastro e listagem de vendas, estrutura modular com boas práticas e regras como validação de duplicidade.
+#### 
 
 ---
 
 ### 📢 Em breve:
-- Projeto de gerenciamento escolar com NestJS
-- Sistema de estoque com autenticação JWT e múltiplos usuários
+-
 
 
 ### 📫 Contato
