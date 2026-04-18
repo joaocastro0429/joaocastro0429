@@ -72,7 +72,7 @@ Sistema com funcionalidades acadêmicas e administrativas.
 
 ## 📫 Contato
 
-- LinkedIn: https://www.linkedin.com/in/joaocastro-dev  
+- LinkedIn: https://www.linkedin.com/in/joaocastro0429
 - Email: (adicione aqui se quiser)  
 
 ---
