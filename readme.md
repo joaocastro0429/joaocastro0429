@@ -17,6 +17,7 @@ Tenho experiência com desenvolvimento de APIs REST, integração com banco de d
 * REST APIs
 * Docker (em aprendizado)
 * Git e GitHub
+* Golang
 
 ---
 
