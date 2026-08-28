@@ -21,23 +21,21 @@ Tenho experiência com desenvolvimento de APIs REST, integração com banco de d
 
 ---
 
-## 📌 Projetos em destaque
+## 📌 Projeto cursos
 
-### 🔹 API de Gestão de Tarefas (em desenvolvimento)
+🎓 Cursos API
 
-API RESTful com autenticação de usuários e gerenciamento de tarefas.
+API RESTful desenvolvida em Java e Spring Boot para gerenciamento de cursos.
 
-**Funcionalidades:**
+O projeto tem como objetivo praticar o desenvolvimento de APIs Back-end utilizando uma arquitetura em camadas, persistência de dados e operações CRUD.
 
-* Cadastro e login com autenticação
-* CRUD de tarefas
-* Filtro por status
-* Relacionamento entre usuários e tarefas
-
-**Tecnologias:**
-Java, Spring Boot, PostgreSQL
-
-👉 Em breve
+🚀 Funcionalidades
+🎓 Cadastro de cursos
+📋 Listagem de cursos
+🔎 Consulta de curso por ID
+✏️ Atualização de cursos
+🗑️ Exclusão de cursos
+🔍 Filtro de cursos
 
 ---
 
