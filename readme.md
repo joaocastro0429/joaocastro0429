@@ -39,53 +39,67 @@ O projeto tem como objetivo praticar o desenvolvimento de APIs Back-end utilizan
 
 ---
 
-### 🔹 Sistema de Gestão de Estoque
+### 🔹 Projeto Livraria API
 
-Sistema para controle de produtos, entradas e saídas de estoque.
-
-**Funcionalidades:**
-
-* Cadastro de produtos
-* Controle de estoque mínimo
-* Movimentação de entrada e saída
-
-**Tecnologias:**
-Java, Spring Boot, PostgreSQL
-
-👉 Em breve
-
----
-
-### 🔹 Sistema de Gestão Escolar
-
-Sistema com funcionalidades acadêmicas e administrativas.
+API REST desenvolvida para o gerenciamento de livros de uma livraria.
 
 **Funcionalidades:**
 
-* Matrículas com validação de vagas
-* Controle de notas e frequência
-* Geração de relatórios
+- Cadastro de livros
+- Listagem de todos os livros
+- Busca de livro por ID
+- Atualização de livros
+- Exclusão de livros
+- Persistência de dados no PostgreSQL
+- Documentação interativa com Swagger/OpenAPI
+- Banco de dados executado com Docker Compose
 
 **Tecnologias:**
-Java, Spring Boot, PostgreSQL
 
-👉 Em breve
+- Java 17
+- Spring Boot
+- Spring Web MVC
+- Spring Data JPA
+- Hibernate
+- PostgreSQL
+- Docker
+- Maven
+- Swagger/OpenAPI
+
+**Endpoints principais:**
+
+- `POST /livro` — cadastrar livro
+- `GET /livro` — listar livros
+- `GET /livro/{id}` — buscar livro por ID
+- `PUT /livro/{id}` — atualizar livro
+- `DELETE /livro/{id}` — excluir livro
+
+👉 [Acessar o repositório](COLOQUE_AQUI_O_LINK_DO_GITHUB)
 
 ---
 
 ## 📊 Estatísticas
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joaocastro0429\&show_icons=true\&theme=tokyonight)
+Este projeto demonstra conhecimentos em:
+
+- Desenvolvimento de APIs REST
+- Arquitetura em camadas
+- Operações CRUD
+- Integração com banco de dados relacional
+- Uso de DTOs e entidades JPA
+- Injeção de dependências
+- Tratamento de respostas HTTP
+- Documentação de APIs
 
 ---
 
 ## 📫 Contato
 
-* LinkedIn: https://www.linkedin.com/in/joaocastro0429
-* Email: (adicione aqui se quiser)
+- LinkedIn: [João Castro](https://www.linkedin.com/in/joaocastro0429)
+
 
 ---
 
 ## 🎯 Objetivo
 
-Busco uma oportunidade como desenvolvedor back-end júnior, onde eu possa aplicar meus conhecimentos em Java e Spring Boot, evoluir tecnicamente e contribuir com soluções reais.
+Busco uma oportunidade como desenvolvedor back-end júnior, onde eu possa aplicar meus conhecimentos em Java, Spring Boot e PostgreSQL, evoluir tecnicamente e contribuir no desenvolvimento de soluções reais.
