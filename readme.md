@@ -1,40 +1,33 @@
-# Olá, eu sou João Castro 👋
+# João Castro
+### Desenvolvimento Back-end · Foco em Java e Spring Boot
 
-### Desenvolvedor Back-end Java
+Busco minha primeira oportunidade como **Desenvolvedor Back-end Java Júnior**. Estou aprofundando meus estudos em Java e Spring Boot e reúno neste perfil projetos práticos de desenvolvimento web e APIs.
 
-Sou desenvolvedor back-end com foco em **Java e Spring Boot**, buscando minha primeira oportunidade profissional na área de desenvolvimento de software.
+Meu portfólio inclui aplicações com **TypeScript, NestJS e bancos relacionais**, além de estudos em Java e Python. Os links abaixo ajudam a encontrar o código, as instruções de execução e o estágio de cada projeto.
 
-Atualmente desenvolvo projetos voltados à construção de **APIs REST**, aplicando orientação a objetos, arquitetura em camadas, persistência de dados, testes e boas práticas de desenvolvimento.
+## Projetos para conhecer
 
-## 🚀 Tecnologias
+| Projeto | O que avaliar | Tecnologias e estágio |
+| --- | --- | --- |
+| [Nexo — plataforma de logística](https://github.com/joaocastro0429/nexo-logistica) | Simulação de frete, histórico, isolamento por empresa, autenticação e documentação de testes | Next.js, NestJS, TypeScript, MySQL, Drizzle, Redis e Docker. Projeto de portfólio com implementação e limitações documentadas. |
+| [Cadastro de carros](https://github.com/joaocastro0429/sistema-cadastro-carro) | CRUD, formulários, validação e persistência de dados | Python, Django e SQLite. Aplicação de estudo com interface web. |
+| [Primeiro projeto Spring Boot](https://github.com/joaocastro0429/primeiro-projeto-spring) | Controller HTTP com exemplos de GET e POST | Java 17, Spring Boot e Maven. Estudo introdutório, sem persistência ou autenticação. |
 
-### 🎯 Foco principal
+O Nexo foi desenvolvido por etapas com auxílio de IA. O processo está registrado no [documento de uso de IA](https://github.com/joaocastro0429/nexo-logistica/blob/main/docs/uso-de-ia.md), junto da documentação técnica do projeto.
 
-* Java
-* Spring Boot
-* Spring Data JPA / Hibernate
-* Spring Security
-* PostgreSQL / SQL
-* APIs REST
-* Maven
-* JUnit / Mockito
-* Docker
-* Git / GitHub
+## Foco de aprendizado
 
-### 🔧 Outras tecnologias Back-end
+- **Java e Spring Boot:** fundamentos, orientação a objetos e construção de APIs.
+- **Persistência:** SQL, PostgreSQL e Spring Data JPA / Hibernate.
+- **Segurança e qualidade:** Spring Security, JUnit e Mockito.
+- **Ferramentas:** Maven, Git, GitHub e Docker.
 
-Também possuo experiência em projetos utilizando:
+Nos projetos também utilizo Node.js, TypeScript, NestJS, MySQL e Python/Django. Cada repositório descreve as tecnologias que efetivamente utiliza.
 
-* Node.js
-* NestJS
-* TypeScript
+## Outros estudos
 
+[API de vendas com NestJS](https://github.com/joaocastro0429/sistema-vendas) — estudo de produtos, usuários, vendas, Prisma e login JWT; o README registra o escopo e as melhorias pendentes.
 
+## Contato
 
-## 🎯 Objetivo
-
-Busco minha primeira oportunidade como **Desenvolvedor Back-end Java**, onde possa aplicar meus conhecimentos, evoluir tecnicamente e contribuir com o desenvolvimento de aplicações back-end.
-
-## 📫 Contato
-
-**LinkedIn:** linkedin.com/in/joaocastro0429
+[LinkedIn](https://www.linkedin.com/in/joaocastro0429/) · [Repositórios](https://github.com/joaocastro0429?tab=repositories)
