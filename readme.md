@@ -1,28 +1,32 @@
-# João Castro
-### Desenvolvimento Back-end · Foco em Java e Spring Boot
+# 👨‍💻 João Castro
 
-Busco minha primeira oportunidade como **Desenvolvedor Back-end Java Júnior**. Estou aprofundando meus estudos em Java e Spring Boot e reúno neste perfil projetos práticos de desenvolvimento web e APIs.
+### Desenvolvedor Back-end Java Júnior | Java | Spring Boot | APIs REST | PostgreSQL
 
-Meu portfólio inclui aplicações com **TypeScript, NestJS e bancos relacionais**, além de estudos em Java e Python. Meu projeto Java de destaque é a **Livraria API**. Os links abaixo ajudam a encontrar o código, as instruções de execução e o estágio de cada projeto.
+👋 Bem-vindo ao meu GitHub!
 
+Sou desenvolvedor Back-end em formação, com foco em **Java e Spring Boot**, buscando minha primeira oportunidade profissional como **Desenvolvedor Java Júnior**.
 
+Tenho experiência prática em projetos pessoais e acadêmicos, desenvolvendo APIs REST, implementando operações CRUD, integrando bancos de dados relacionais e aplicando conceitos de programação orientada a objetos.
 
-O Nexo foi desenvolvido por etapas com auxílio de IA. O processo está registrado no [documento de uso de IA](https://github.com/joaocastro0429/nexo-logistica/blob/main/docs/uso-de-ia.md), junto da documentação técnica do projeto.
+### 🚀 Tecnologias e conhecimentos
 
-## Foco de aprendizado
+- **Linguagem:** Java 17
+- **Framework:** Spring Boot
+- **Back-end:** APIs REST, Spring Data JPA, Hibernate
+- **Banco de dados:** PostgreSQL e SQL
+- **Ferramentas:** Git, GitHub, Maven e Docker
+- **Qualidade:** JUnit, testes de integração e validação de dados
 
-- **Java e Spring Boot:** fundamentos, orientação a objetos e construção de APIs.
-- **Persistência:** SQL, PostgreSQL e Spring Data JPA / Hibernate.
-- **Segurança e qualidade:** Spring Security, JUnit e Mockito.
-- **Ferramentas:** Maven, Git, GitHub e Docker.
+### 📂 Projetos em destaque
 
-Nos projetos também utilizo Node.js, TypeScript, NestJS, MySQL e Python/Django. Cada repositório descreve as tecnologias que efetivamente utiliza.
+**[Livraria API](https://github.com/joaocastro0429/Livraria-API)** — API REST com Java, Spring Boot, PostgreSQL, operações CRUD, validações e testes de integração.
 
-## Outros estudos
+**[API de Cursos](https://github.com/joaocastro0429/API-cursos)** — API para gerenciamento de cursos utilizando Java, Spring Boot e PostgreSQL.
 
-[API de vendas com NestJS](https://github.com/joaocastro0429/sistema-vendas) — estudo de produtos, usuários, vendas, Prisma e login JWT; o README registra o escopo e as melhorias pendentes.
+### 🎯 Objetivo profissional
 
-## Contato
+Busco minha primeira oportunidade como **Desenvolvedor Back-end Java Júnior**, onde possa aplicar meus conhecimentos, colaborar com equipes de desenvolvimento e continuar evoluindo profissionalmente.
 
-[LinkedIn](https://www.linkedin.com/in/joaocastro0429/) · [Repositórios](https://github.com/joaocastro0429?tab=repositories)
+### 📫 Contato
 
+[LinkedIn](https://www.linkedin.com/in/joaocastro0429/) | [GitHub](https://github.com/joaocastro0429)
