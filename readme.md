@@ -23,7 +23,7 @@ Tenho experiência prática em projetos pessoais e acadêmicos, desenvolvendo AP
 
 **[API de Cursos](https://github.com/joaocastro0429/API-cursos)** — API para gerenciamento de cursos utilizando Java, Spring Boot e PostgreSQL.
 
-**[CADASTRO DE USUARIO](https://github.com/joaocastro0429/cadastro_de_usuario) ** — API para gerenciamento de cursos utilizando Java, Spring Boot e PostgreSQL.
+**[API Cadastro de usuario](https://github.com/joaocastro0429/cadastro_de_usuario) ** — API para gerenciamento de cursos utilizando Java, Spring Boot e PostgreSQL , JWT , SECURITY .
 
 ### 🎯 Objetivo profissional
 
